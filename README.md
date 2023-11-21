@@ -3,7 +3,7 @@
 <div>
   <p align="center">
   <a href="https://www.linkedin.com/in/shelby-francisco-111948100/">LinkedIn</a> •
-  <a href="shelbyfrancisco@hotmail.com">Email</a>
+  <a href="shel.cisco5@gmail.com">Email</a>
   </p>
 </div>
 
