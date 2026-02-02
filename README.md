@@ -21,11 +21,4 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=yellow&logo=MySQL&logoColor=FFFFFF&label="/>
 </p>
 
-<p align="center"> 
-  <a href="https://github.com/Shelcisco/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shelcisco&theme=dark&show_icons=true" alt="Shelby's GitHub stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shelcisco&layout=compact&theme=dark" alt="Top Langs"/>
-  </a>
-</p>
+
